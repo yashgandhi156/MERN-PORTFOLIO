@@ -43,21 +43,24 @@ const Projects = () => {
               <div className="card-image">
                 <span className="card-notify-badge">Full stack</span>
                 <img
-                  src="https://inotebook.in/assets/images/inotebook.png"
+                  src="https://cdn.prod.website-files.com/653a8b0e56e4a44a90d64931/65fc9dbd6fac491685435066_image%20401.webp"
                   alt="project2"
                 />
               </div>
               <div className="card-image-overly m-auto mt-3">
                 <span className="card-detail-badge">MERN stack</span>
                 <span className="card-detail-badge">Bootstrap</span>
+                <span className="card-detail-badge">Open AI</span>
+                <span className="card-detail-badge">Tailwind CSS</span>
+                <span className="card-detail-badge">Cloudinary</span>
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto">
-                  <h5 className="text-uppercase">INotbook</h5>
+                  <h5 className="text-uppercase">AI-Image Generator</h5>
                 </div>
                 <a
                   className="ad-btn"
-                  href="https://github.com/yashgandhi156/inotebook"
+                  href="https://github.com/yashgandhi156/AI-Image-Generation-APP"
                 >
                   View
                 </a>
@@ -69,25 +72,24 @@ const Projects = () => {
               <div className="card-image">
                 <span className="card-notify-badge">Frontend</span>
                 <img
-                  src="https://s3-alpha.figma.com/hub/file/1349586731/a3778eae-12c5-4776-9cdf-2682394d9013-cover.png"
+                  src="https://lh3.googleusercontent.com/S3bwgG5p3Ncq36MRNVxWtMt667HVO0wIRDIvSOl8Kt4ryW-be4Z_H0ixileIevn4ktL0SyxY0EDb1vmhqBPaIrhS=s1280-w1280-h800"
                   alt="project1"
                 />
               </div>
               <div className="card-image-overly m-auto mt-3">
-                <span className="card-detail-badge">ReactJS</span>
-                {/* <span className="card-detail-badge">HTML</span>
-                <span className="card-detail-badge">CSS</span> */}
+                <span className="card-detail-badge">HTML</span>
+                <span className="card-detail-badge">CSS</span>
                 <span className="card-detail-badge">Javascript</span>
-                <span className="card-detail-badge">Bootstrap</span>
-                <span className="card-detail-badge">API</span>
               </div>
               <div className="card-body text-center">
                 <div className="ad-title m-auto">
-                  <h5 className="text-uppercase">Newsapp</h5>
+                  <h5 className="text-uppercase">
+                    Youtube Bookmarker Chrome Extension
+                  </h5>
                 </div>
                 <a
                   className="ad-btn"
-                  href="https://github.com/yashgandhi156/Newsapp"
+                  href="https://github.com/yashgandhi156/youtube-bookmark-Chrome-Extension"
                 >
                   View
                 </a>

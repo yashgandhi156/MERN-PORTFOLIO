@@ -25,7 +25,7 @@ const Education = () => {
           >
             <h3 className="vertical-timeline-element-title">BTech</h3>
             <h4 className="vertical-timeline-element-subtitle">
-              IIT Varanasi, IN
+              IIT Varanasi, 8.35 cpi
             </h4>
           </VerticalTimelineElement>
           <VerticalTimelineElement

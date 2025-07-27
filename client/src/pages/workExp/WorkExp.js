@@ -22,19 +22,19 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2023 - present"
+              date="2025 - present"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
+                Software Engineer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+                Bizacuity Solutions
               </h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project
-                Management, Team Leading
+                Learning new things and gaining knowledge about SQl, Exel, ETL,
+                Linx and many for about development.
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -43,22 +43,20 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2020 - 2022"
+              date="MAY 24- July 24"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
-              <h3 className="vertical-timeline-element-title">
-                Full Stack Developer
-              </h3>
+              <h3 className="vertical-timeline-element-title">Web Developer</h3>
               <h4 className="vertical-timeline-element-subtitle">
-                xyz, pvt ltd
+                Unified Mentor, pvt ltd
               </h4>
               <p>
-                Creative Direction, User Experience, Visual Design, Project
-                Management, Team Leading
+                Contributed to the development, integration and enhancement of
+                essential features
               </p>
             </VerticalTimelineElement>
-            <VerticalTimelineElement
+            {/* <VerticalTimelineElement
               className="vertical-timeline-element--work"
               contentStyle={{ background: "white", color: "#1e1e2c" }}
               contentArrowStyle={{
@@ -78,7 +76,7 @@ const WorkExp = () => {
                 Creative Direction, User Experience, Visual Design, Project
                 Management, Team Leading
               </p>
-            </VerticalTimelineElement>
+            </VerticalTimelineElement> */}
           </VerticalTimeline>
         </div>
       </div>
